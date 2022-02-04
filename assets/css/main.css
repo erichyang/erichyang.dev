@@ -2341,6 +2341,9 @@
 				border-radius: 0;
 				display: block;
 				width: 100%;
+			}
+			
+			.box .image.featured.row-img img{
 				height: 300px;
 				object-fit: cover;
 			}
